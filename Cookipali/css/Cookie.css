@@ -13,7 +13,7 @@
 	}
 	#body
 		{
-		background-image:url(CookiePhoto.jpg);
+		background-image:url(../images/CookiePhoto.jpg);
 		background-size:50% 30%;
 		}
 		#taxi
@@ -60,7 +60,7 @@
 	}
 	ul
 	{
-		list-style-image:url(CookieSmall.jpg);
+		list-style-image:url(../images/CookieSmall.jpg);
 	}
 	#totheleft
 	{
